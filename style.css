@@ -1,0 +1,30 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_div{
+    border: 2px solid blue;
+}
+.movie-div{
+    font-size: 20px;
+    padding: 2px;
+}
+.movie-div i{
+    float: right;
+}
+.modal-body{
+    text-align: center;
+}
